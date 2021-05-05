@@ -1,0 +1,105 @@
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+    .h-100{
+       height:250%;
+    }
+    
+   
+}
+
+
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.carousel-control-prev{
+    background-color: lightgray;
+    width:100px;
+}
+.carousel-control-next{
+    background-color:  lightgray;
+    width:100px;
+}
+.jumbotron{
+    border-radius: 0;
+   background-color: lightgray;
+}
+#map #map1 #map2 #map3{
+    height: 400px;  
+    width: 100%;  
+   }
+.aa{
+    padding-top: 100px;
+   }
+hr{
+    width: 70%; 
+    color: black; 
+    height: 1px;
+ }
+
+ .img-gal{
+border-radius: 5px;
+ }
+ .img-gal:hover{
+ opacity: 90%;
+ transform: scale(1.02);
+ }
+ .col-md-4{
+     margin-top:10px;
+ }
+textarea{
+    resize: none;
+}
+.linki{
+    width:50px;
+}
+#kolorek{
+    font-size: 30px;
+    font-weight: bold;
+}
+.sliederh{
+ opacity:100%;
+ font-size:5vw;
+
+}
+.carousel-caption{
+    color:#00cc00;
+    background-color:lightgray;
+    padding:10px;
+    opacity: 80%;
+    border-radius: 5px;
+   
+}
+.kom{
+margin-bottom:10px;
+margin-top:10px;
+border:1px solid lightgray;
+border-radius: 5px;
+}
+.btn-form{
+background-color: #00cc00;
+padding:5px 20px 5px 20px;
+border-radius: 5px;
+border:solid 1px #00cc00;
+color:black;
+}
+.btn-form:hover{
+background-color: #00cc00;
+}
+.jumbotron2{
+    background-color: #80ff80;
+}
+.nav-link:hover{
+   color:#00cc00;
+}
+
